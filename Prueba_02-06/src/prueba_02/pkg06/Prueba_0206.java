@@ -13,6 +13,7 @@ public class Prueba_0206 {
           i++;
       }
       System.out.println("El reultado de la potencia [ "+numero+"^"+veces+" ] es: [ "+r+" ]");
+      System.out.println("[ "+r/i+" ]");
     }
     
 }
